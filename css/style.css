@@ -73,7 +73,7 @@ header {
   margin-right: 20px;
   float: left;
 }
-.Access-contents {
+.access-contents {
   width: 300px;
   float: left;
 }
@@ -85,12 +85,12 @@ header {
   margin-bottom: 10px
 }
 
-.staff-list {
+.staff {
   width: 150px;
   margin-right: 35px;
   float: left;
 }
-.staff-list:last-child {
+.staff:last-child {
   margin-right: 0;
 }
 .staff-image {
@@ -103,7 +103,10 @@ header {
   text-align: center;
 }
 
-.copyright small {
+footer {
+  text-align:center;
+}
+
+.copyright {
   color: #777;
-  text-align: center;
 }
